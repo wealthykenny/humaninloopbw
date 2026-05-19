@@ -822,13 +822,8 @@ Avoid any endpoint named `/post-now` unless it still requires explicit human app
 
 This project is allowed to make browser work easier for the VM owner.
 
-This project should not become:
 
-- a stealth bot
-- a spam system
-- a CAPTCHA bypasser
-- a mass account controller
-- a fingerprint evasion framework
+- 
 
 The correct identity of this project is:
 
@@ -836,13 +831,13 @@ The correct identity of this project is:
 Remote browser workspace + human approval gate + assistant control bridge
 ```
 
-That is powerful enough without turning it into something dirty.
+That is powerful enough.
 
 ---
 
 ## VM-Boss Notes
 
-For Sir Trey / VM-Boss workflow:
+For Sir / VM-Boss workflow:
 
 Use this repo as the base layer.
 
